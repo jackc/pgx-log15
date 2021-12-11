@@ -1,6 +1,6 @@
-// Package log15adapter provides a logger that writes to a github.com/inconshreveable/log15.Logger
+// Package log provides a logger that writes to a github.com/inconshreveable/log15.Logger
 // log.
-package log15adapter
+package log
 
 import (
 	"context"
